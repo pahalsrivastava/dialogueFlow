@@ -1,0 +1,2 @@
+This is a bot that helps in ordering pizza,
+  it takes your details and also about the pizza :)

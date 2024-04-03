@@ -1,0 +1,4 @@
+This bot will help you perform various tasks 
+  like setting reminders, alarms, meetings, remembering passwords.
+    More like your virtual PA
+    
